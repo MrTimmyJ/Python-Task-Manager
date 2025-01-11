@@ -1,2 +1,2 @@
 # Python-Task-Manager
-A basic Task Manager made in Python
+A basic task manager made in Python
