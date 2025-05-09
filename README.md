@@ -2,7 +2,7 @@
 A basic task manager made in Python
 
 Author: Timothy Johnson <br>
-Date: September 2024
+Date: November 2024
 
 ## Overview
 
