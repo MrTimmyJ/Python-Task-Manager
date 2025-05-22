@@ -100,7 +100,7 @@ Please enter your choice:
 
       Clone the repo:
 
-        git clone https://github.com/yourusername/Python-Task-Manager.git
+        git clone https://github.com/MrTimmyJ/Python-Task-Manager.git
         cd Python-Task-Manager
 
       Run the script:
@@ -123,4 +123,4 @@ Please enter your choice:
 
 🪪 License
 
-This project is open source and available under the [MIT License](https://opensource.org/license/mit).
+This open-source project is available under the [MIT License](https://opensource.org/license/mit).
